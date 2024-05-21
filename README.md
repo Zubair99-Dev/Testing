@@ -1,3 +1,3 @@
 # Testing
 
-This is our testing repositorty.
+This is testing repositorty.
